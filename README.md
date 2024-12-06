@@ -26,7 +26,7 @@ My top skills include:
     srcset="https://github-readme-stats.vercel.app/api?username=Loekensgard&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Loekensgard&show_icons=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loekensgard&show_icons=true&hide_border=true" />
 </picture>
 
 <picture>
@@ -38,7 +38,7 @@ My top skills include:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact&card_width=320" />
 </picture>
 
 > Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -54,7 +54,7 @@ My top skills include:
 
 * [Azure Authorization GuestPolicies][authorization-guestpolicies], a .NET implementation that automatically blocks guest users from EntraID. 
 * [Serilog Enrichers AzureClaims][serilog-enrichers-azureclaims], a .NET serilog enrichers that enriches logs with properties from EntraID access_tokens. 
-* [Intility Templates][intility-templates], a .NET template for intiliy developers. 
+* [Intility Templates][intility-templates], a .NET template for intility developers. 
 * [Intility Logging][intility-logging], a .NET project for easy logging to sentry and elastic. 
 
 ## 📰 Other stuff
