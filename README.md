@@ -1,11 +1,11 @@
-# Hello there👋
+# 👋 Hello there
 
 I'm Thorstein, and I've been programming both as a hobby and professionally for a decade. I primarily work with .NET and enjoy exploring the latest technologies. I always strive to keep my code clean and up to today's standards. 
 
 In my spare time, I'm a gamer, golfer, and crypto enthusiast. I've won [Bedriftsligaen][bedriftsligaen] for CS six times with my team, and yes, I have an [image of me](https://github.com/user-attachments/assets/d4c3cf17-0342-4f5a-b0c0-d6843e8e5755)
 with all the trophies. When I'm not gaming, I'm trying to improve my golf swing. Spoiler alert: my golf balls spend more time in [the hazard](https://github.com/user-attachments/assets/63fce06d-f7e1-4827-bc5c-903672dadd32) than on the green.
 
-## Skills
+## 🌟 Skills
 
 I am currently working as a software engineer at [Intility][intility], where I specialize in .NET, Azure, Kubernetes, and more. My main focus is on building APIs, infrastructure, and the architecture of software used by many of Intility's customers.
 In addition to professional projects, I enjoy creating applications for amusement, I have developed apps for tracking activity in the company gym and a game for guessing the names of my colleagues.
