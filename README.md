@@ -63,7 +63,7 @@ My top skills include:
 
 ## 📨 Social
 
-* [LinkedId][linkedin]
+* [LinkedIn][linkedin]
 
 [crypto-price-notifier]: https://github.com/loekensgard/CryptoPriceNotifier
 [esportal-browser-boost]: https://github.com/loekensgard/Esportal-Browser-Boost
