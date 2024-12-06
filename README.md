@@ -26,19 +26,19 @@ My top skills include:
     srcset="https://github-readme-stats.vercel.app/api?username=Loekensgard&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Loekensgard&show_icons=true&hide_border=true" />
+  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api?username=Loekensgard&show_icons=true&hide_border=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact&card_width=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact&card_width=320"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loekensgard&show_icons=true&theme=dark&hide_border=true&layout=compact" />
 </picture>
 
 > Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
