@@ -48,7 +48,8 @@ My top skills include:
 #### 👷 Personal ⚡
 
 * [Crypto Price Notifier][crypto-price-notifier], a discord bot reporting the current price of Bitcoin and Ethereum. 
-* [Esportal Browser Boost][esportal-browser-boost], a chrome plugin that removes autoplaying twitch streams. 
+* [Esportal Browser Boost][esportal-browser-boost], a Chrome extension that removes autoplaying twitch streams.
+* [Garmin Shot Analyzer][garmin-shot-analyzer], a Chrome extension that detects miscalculated golf shots in Garmin Connect.. 
 
 #### 👮 Professional 
 
@@ -65,6 +66,7 @@ My top skills include:
 
 * [LinkedIn][linkedin]
 
+[garmin-shot-analyzer]: https://github.com/loekensgard/garmin-golf-analyzer
 [crypto-price-notifier]: https://github.com/loekensgard/CryptoPriceNotifier
 [esportal-browser-boost]: https://github.com/loekensgard/Esportal-Browser-Boost
 [authorization-guestpolicies]: https://github.com/intility/Authorization-Azure-GuestPolicies
