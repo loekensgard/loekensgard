@@ -28,7 +28,7 @@ In addition to professional projects, I enjoy creating applications for amusemen
 #### 👷 Personal ⚡
 
 * [Crypto Price Notifier][crypto-price-notifier], a Discord bot reporting the current price of Bitcoin and Ethereum.
-* [Faceit UI Declutter][[faceit-ui-declutter]], a Chrome extension that removes all bloat from the Faceit UI.
+* [Faceit UI Declutter][faceit-ui-declutter], a Chrome extension that removes all bloat from the Faceit UI.
 * [Garmin Shot Analyzer][garmin-shot-analyzer], a Chrome extension that detects miscalculated golf shots in Garmin Connect.
 
 ## ✍️ Writing
