@@ -12,8 +12,8 @@ In addition to professional projects, I enjoy creating applications for amusemen
 
 ### My top skills include:
 
-**Backend**: C#, .NET, REST APIs, EF Core, SQL Server, PostgreSQL, Redis, Azure Service Bus.
-**Identity**: Entra ID, Azure AD B2C, OAuth/OIDC, RBAC, multi-tenant authorization, Kong, OPA, OpenFGA.
+**Backend**: C#, .NET, REST APIs, EF Core, SQL Server, PostgreSQL, Redis, Azure Service Bus.\
+**Identity**: Entra ID, Azure AD B2C, OAuth/OIDC, RBAC, multi-tenant authorization, Kong, OPA, OpenFGA.\
 **Platform**: Kubernetes, OpenShift, ArgoCD, Kustomize, Helm, GitHub Actions, OpenTelemetry.
 
 ## 🔭 Projects
@@ -28,7 +28,7 @@ In addition to professional projects, I enjoy creating applications for amusemen
 #### 👷 Personal ⚡
 
 * [Crypto Price Notifier][crypto-price-notifier], a Discord bot reporting the current price of Bitcoin and Ethereum.
-* [Esportal Browser Boost][esportal-browser-boost], a Chrome extension that removes autoplaying Twitch streams.
+* [Faceit UI Declutter][[faceit-ui-declutter]], a Chrome extension that removes all bloat from the Faceit UI.
 * [Garmin Shot Analyzer][garmin-shot-analyzer], a Chrome extension that detects miscalculated golf shots in Garmin Connect.
 
 ## ✍️ Writing
@@ -41,7 +41,7 @@ In addition to professional projects, I enjoy creating applications for amusemen
 
 [garmin-shot-analyzer]: https://github.com/loekensgard/garmin-golf-analyzer
 [crypto-price-notifier]: https://github.com/loekensgard/CryptoPriceNotifier
-[esportal-browser-boost]: https://github.com/loekensgard/Esportal-Browser-Boost
+[faceit-ui-declutter]: https://github.com/loekensgard/faceit-ui-declutter
 [authorization-guestpolicies]: https://github.com/intility/Authorization-Azure-GuestPolicies
 [serilog-enrichers-azureclaims]: https://github.com/intility/serilog-enrichers-azureclaims
 [how-to-write-api-tests-in-net]: https://engineering.intility.com/article/how-to-write-api-tests-in-net
